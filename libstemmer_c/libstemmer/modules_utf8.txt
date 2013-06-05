@@ -8,22 +8,7 @@
 
 # List all the main algorithms for each language, in UTF-8.
 
-danish          UTF_8                   danish,da,dan
-dutch           UTF_8                   dutch,nl,dut,nld
-english         UTF_8                   english,en,eng
-finnish         UTF_8                   finnish,fi,fin
-french          UTF_8                   french,fr,fre,fra
-german          UTF_8                   german,de,ger,deu
-hungarian       UTF_8                   hungarian,hu,hun
-italian         UTF_8                   italian,it,ita
 lithuanian      UTF_8                   lithuanian,lt,lit
-norwegian       UTF_8                   norwegian,no,nor
-portuguese      UTF_8                   portuguese,pt,por
-romanian        UTF_8                   romanian,ro,rum,ron
-russian         UTF_8                   russian,ru,rus
-spanish         UTF_8                   spanish,es,esl,spa
-swedish         UTF_8                   swedish,sv,swe
-turkish         UTF_8                   turkish,tr,tur
 
 # Also include the traditional porter algorithm for english.
 # The porter algorithm is included in the libstemmer distribution to assist
